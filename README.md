@@ -7,11 +7,11 @@
 <br>
 <h1 align="center">Hi 👋, I'm Priyanka Bhamare.</h1>
 <h3 align="center">Currently I pursuing Bachelor of Computer Application ( BCA ).</h3>
-<img align="right"  alt="coding" width="420"  src="https://dribbble.com/shots/7466903-Hello-Dribbble/attachments/307954?mode=media">
+<img align="right"  alt="coding" width="420"  src="https://dribbble.com/shots/7466903-Hello-Dribbble">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhirajnmahajan&label=Profile%20views&color=0e75b6&style=flat" alt="dhirajnmahajan" /> </p>
+<p align="left"> <img src="" alt="priyanka" /> </p>
 
-<p align="left"> <a href="" target="blank"><img src="https://img.shields.io/twitter/follow/dhiraj_mahajan7?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="" target="blank"><img src="" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Web Developement**
 
@@ -34,7 +34,7 @@
 
   <br>
   <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhirajnmahajan&show_icons=true&locale=en&layout=compact" alt="priyanka" />
+<img align="center" src="" alt="priyanka" />
   </p>
 <br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dhirajnmahajan&show_icons=true&locale=en" alt="dhirajnmahajan" width="400" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhirajnmahajan&" alt="priyanka" width="400"/></p>
+<p><img align="left" src="n" alt="priyanka" width="400" /><img align="right" src="" alt="priyanka" width="400"/></p>
