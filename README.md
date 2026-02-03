@@ -6,7 +6,7 @@
 </p>
 <br>
 <h1 align="center">Hi 👋, I'm Priyanka Bhamare.</h1>
-<h3 align="center">Currently I pursuing Bachelor of Computer Application ( BCA ).</h3>
+<h3 align="center">Currently I pursuing Master of Computer Application ( MCA ).</h3>
 <img align="right"  alt="coding" width="420"  src="https://dribbble.com/shots/7466903-Hello-Dribbble">
 
 <p align="left"> <img src="" alt="priyanka" /> </p>
