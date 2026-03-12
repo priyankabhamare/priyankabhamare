@@ -1,13 +1,19 @@
 # Hi 👋 I'm Priyanka Bhamare
 
-🎓 MCA Student  
-💻 Aspiring Full Stack Developer  
+🎓 MCA Student | Full Stack Developer
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+I am passionate about building modern web applications and learning new technologies.
 
-## 💻 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+## 🚀 Skills
+HTML | CSS | JavaScript | React | Node.js | MongoDB | MySQL | Java
 
-## 🔥 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark)
+## 💻 Projects
+• Cake Shop E-commerce Website  
+• TiffenWala MERN Project  
+• Personal Portfolio Website  
+
+## 🌱 Currently Learning
+MERN Stack Development
+
+## 📫 Contact Me
+Email: bhamarep826@gmail.com
