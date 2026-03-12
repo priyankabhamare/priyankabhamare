@@ -17,34 +17,45 @@
 
 ## 🛠️ Technical Skills
 
-**Frontend**
+### Frontend
 
-* HTML
-* CSS
-* JavaScript
-* React (Basic)
+<p>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=css" height="40"/>
+<img src="https://skillicons.dev/icons?i=js" height="40"/>
+<img src="https://skillicons.dev/icons?i=react" height="40"/>
+</p>
 
-**Backend**
+### Backend
 
-* Node.js
-* Express.js
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/>
+<img src="https://skillicons.dev/icons?i=express" height="40"/>
+</p>
 
-**Database**
+### Database
 
-* MongoDB
-* MySQL
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
 
-**Programming Languages**
+### Programming Languages
 
-* Java
-* C
-* C++
+<p>
+<img src="https://skillicons.dev/icons?i=java" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+</p>
 
-**Tools**
+### Tools
 
-* Git
-* GitHub
-* VS Code
+<p>
+<img src="https://skillicons.dev/icons?i=git" height="40"/>
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+<img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+</p>
+
 
 ---
 
