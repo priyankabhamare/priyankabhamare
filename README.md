@@ -16,7 +16,7 @@
 
 <h1 align="center">Hi 👋 I'm Priyanka Vivek Bhamare</h1>
 
-<h3 align="center">Currently Pursuing MCA</h3>
+<h3 align="center">Currently Pursuing Master Computer Application - MCA</h3>
 
 ---
 
