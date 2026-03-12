@@ -25,19 +25,24 @@
 
 <td width="50%">
 
-### 👩‍💻 About Me
-
-* 🎓 MCA Student
-* 💻 Aspiring Full Stack Developer
-* 🌱 Learning MERN Stack
-* 🚀 Interested in Web Development
-* 🎯 Goal: Become a Professional Developer
-
-</td>
+<table>
+<tr>
 
 <td width="50%">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+### 👩‍💻 About Me
+
+* 🎓 Currently pursuing **MCA**
+* 💻 Aspiring **Full Stack Developer**
+* 🌱 Learning **MERN Stack**
+* 🚀 Passionate about **Web Development**
+* 🎯 Goal: Become a **Professional Software Developer**
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="350"/>
 
 </td>
 
