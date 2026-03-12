@@ -7,11 +7,6 @@ I am passionate about building modern web applications and learning new technolo
 ## 🚀 Skills
 HTML | CSS | JavaScript | React | Node.js | MongoDB | MySQL | Java
 
-## 💻 Projects
-• Cake Shop E-commerce Website  
-• TiffenWala MERN Project  
-• Personal Portfolio Website  
-
 ## 🌱 Currently Learning
 MERN Stack Development
 
