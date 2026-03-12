@@ -62,16 +62,20 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
+<table>
+<tr>
+<td>
+
 <img src="https://github-readme-stats.vercel.app/api?username=priyankabhamare&show_icons=true&theme=tokyonight"/>
-</p>
 
----
+</td>
 
-<h2 align="center">📈 Contribution Graph</h2>
+<td>
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyankabhamare&theme=tokyo-night"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=priyankabhamare&theme=tokyonight"/>
+
+</td>
+</tr>
+</table>
