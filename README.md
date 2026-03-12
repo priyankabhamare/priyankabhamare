@@ -1,73 +1,78 @@
-# Hi 👋 I'm Priyanka Bhamare
+# Hi 👋, I'm Priyanka Vivek Bhamare
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=MCA+Student;Full+Stack+Developer;MERN+Stack+Learner;Web+Developer&center=true&width=500&height=45">
+🎓 MCA Student at Savitribai Phule Pune University
+💻 Aspiring Full Stack Developer (MERN Stack)
+📍 Amalner, Maharashtra, India
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 MCA Student from Savitribai Phule Pune University
-💻 Aspiring Full Stack Developer
-🌱 Currently learning MERN Stack
-📍 Maharashtra, India
+* 🌱 Currently learning **MERN Stack Development**
+* 💡 Interested in **Web Development and Software Development**
+* 📚 Continuously improving my **JavaScript, React, and Backend skills**
+* 🎯 Goal: Become a **Professional Full Stack Developer**
 
 ---
 
-## 🚀 Skills
+## 🛠️ Technical Skills
 
-### Frontend
+**Frontend**
 
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+* HTML
+* CSS
+* JavaScript
+* React (Basic)
 
-### Backend
+**Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge\&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
+* Node.js
+* Express.js
 
-### Database
+**Database**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+* MongoDB
+* MySQL
 
-### Tools
+**Programming Languages**
 
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge\&logo=visualstudiocode)
+* Java
+* C
+* C++
+
+**Tools**
+
+* Git
+* GitHub
+* VS Code
 
 ---
 
 ## 💻 Projects
 
-🍰 **Cake Shop E-commerce Website**
-Online cake ordering system with cart functionality.
+### Cake Shop E-commerce Website
 
-🍱 **TiffenWala – Online Tiffin Delivery System**
-MERN Stack project with login system, menu selection, and order tracking.
+Online cake ordering website with product listing and cart functionality.
 
-🌐 **Personal Portfolio Website**
-Responsive portfolio with animated sections.
+### TiffenWala – Online Tiffin Delivery System
+
+A MERN stack project with login system, menu selection, order tracking, and admin panel.
+
+### Personal Portfolio Website
+
+Responsive portfolio website showcasing skills, projects, and contact information.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankabhamare\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankabhamare\&show_icons=true)
 
 ---
 
 ## 💻 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabhamare\&layout=compact\&theme=tokyonight)
-
----
-
-## 🔥 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priyankabhamare\&theme=tokyo-night)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankabhamare\&layout=compact)
 
 ---
 
