@@ -41,11 +41,6 @@
 * 🛠 Building real-world projects
 * 📧 Email: **[bhamarep826@gmail.com](mailto:bhamarep826@gmail.com)**
 
-#### 🚀 Projects
-
-* 🍰 Cake Shop E-commerce Website
-* 🍱 TiffenWala – Online Tiffin Delivery System
-* 🌐 Personal Portfolio Website
 
 </td>
 
