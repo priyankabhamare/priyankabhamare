@@ -30,24 +30,31 @@
 
 <td width="50%">
 
+<table>
+<tr>
+
+<td width="50%">
+
 ### 👩‍💻 About Me
 
 * 🎓 Currently pursuing **MCA**
 * 💻 Aspiring **Full Stack Developer**
-* 🌱 Learning **MERN Stack**
-* 🚀 Passionate about **Web Development**
+* 🌱 Learning **MERN Stack (MongoDB, Express, React, Node.js)**
+* 🚀 Interested in **Web Development & Software Development**
+* 📚 Improving skills in **JavaScript and Backend Development**
 * 🎯 Goal: Become a **Professional Software Developer**
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" width="350"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
 </td>
 
 </tr>
 </table>
+
 
 ---
 
